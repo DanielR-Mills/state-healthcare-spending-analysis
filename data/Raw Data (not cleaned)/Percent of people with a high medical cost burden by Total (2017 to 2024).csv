@@ -1,0 +1,272 @@
+﻿Indicator,Percent of people with a high medical cost burden by Total (2017 to 2024)
+Source,"SHADAC analysis of the Current Population Survey's Annual Social and Economic Supplements (CPS) public use microdata files.<br />
+<br />
+Suggested Citation:<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE]."
+Notes,"Family defined as a Health Insurance Unit (HIU), based on individuals who would likely be considered a family unit in determining eligibility for either private or public coverage. Income measured as HIU family income in relation to HHS Federal Poverty Guidelines (FPG). The margin of error (MOE) represents the uncertainty of an estimate due to sampling variability; the calculated MOE is 95%. N/A indicates that data were not available or suppressed because the number of sample cases was too small.<br />
+<br />
+Data collection for the 2020 CPS (2019 estimates) was impacted by the COVID-19 pandemic, which likely caused measurable non-response bias. Users should treat 2019 estimates with caution. More information is available in Census Working Paper <a href="https://www.census.gov/library/working-papers/2020/demo/SEHSD-WP2020-10.html" target="_blank">SEHSD WP2020-10</a>. Data collection for the 2021 CPS (2020 estimates) was also impacted by the COVID-19 pandemic, which likely caused measurable non-response bias. More information is available in a <a href="https://www.census.gov/newsroom/blogs/research-matters/2021/09/pandemic-affect-survey-response.html" target="_blank">September 2021 Census blog post</a>. Though data collection for the 2022 CPS (2021 estimates) was not impacted by the pandemic, response rates continued to be below pre-pandemic normal, which has resulted in small, but measurable nonresponse bias. More information is available in a <a href="https://www.census.gov/newsroom/blogs/research-matters/2022/09/how-did-the-pandemic-affect-survey-response.html" target="_blank">September 2022 Census blog post</a>. Users should treat 2019&ndash;2021 estimates with caution.<br />"
+Description,"Share of individuals who are in families where out-of-pocket spending on health care, including premiums, accounted for more than 10 percent of annual income for the civilian non-institutionalized population."
+
+
+Fips,Location,TimeFrame,Data Type,Data,MOE
+US,United States,2020,Percent,0.17371,3.0674000000000001E-3
+US,United States,2021,Percent,0.16766,3.33396E-3
+US,United States,2022,Percent,0.16254,3.2530026999999999E-3
+US,United States,2023,Percent,0.15768,3.4149596000000002E-3
+US,United States,2024,Percent,0.15317,.0032347424
+01,Alabama,2020,Percent,0.18987,1.9868520000000001E-2
+01,Alabama,2021,Percent,0.20397,2.5532920000000001E-2
+01,Alabama,2022,Percent,0.18761,3.1423382499999999E-2
+01,Alabama,2023,Percent,0.13119,2.09458992E-2
+01,Alabama,2024,Percent,0.1533,.0307147019
+02,Alaska,2020,Percent,0.13813,2.1195439999999999E-2
+02,Alaska,2021,Percent,0.13342,2.5679920000000002E-2
+02,Alaska,2022,Percent,0.14161,2.9974822000000002E-2
+02,Alaska,2023,Percent,0.14445,2.96871345E-2
+02,Alaska,2024,Percent,0.11803,.0241166353
+04,Arizona,2020,Percent,0.17927,2.399432E-2
+04,Arizona,2021,Percent,0.16913,2.532908E-2
+04,Arizona,2022,Percent,0.17514,2.16121152E-2
+04,Arizona,2023,Percent,0.15916,2.4405620999999999E-2
+04,Arizona,2024,Percent,0.15214,.0280485302
+05,Arkansas,2020,Percent,0.22308,2.5679920000000002E-2
+05,Arkansas,2021,Percent,0.21511,2.3067239999999999E-2
+05,Arkansas,2022,Percent,0.19584,2.96028461E-2
+05,Arkansas,2023,Percent,0.17087,2.6064185399999999E-2
+05,Arkansas,2024,Percent,0.17076,.0230535325
+06,California,2020,Percent,0.14614,8.9944399999999994E-3
+06,California,2021,Percent,0.12767,7.9732799999999993E-3
+06,California,2022,Percent,0.13039,8.8280747000000007E-3
+06,California,2023,Percent,0.13127,9.1141481000000003E-3
+06,California,2024,Percent,0.11802,.0079043638
+08,Colorado,2020,Percent,0.19728,2.3412200000000001E-2
+08,Colorado,2021,Percent,0.16707,2.1463960000000001E-2
+08,Colorado,2022,Percent,0.17883,2.6254912799999999E-2
+08,Colorado,2023,Percent,0.19044,3.6965332900000002E-2
+08,Colorado,2024,Percent,0.15216,.0228950735
+09,Connecticut,2020,Percent,0.16424,3.1493279999999998E-2
+09,Connecticut,2021,Percent,0.16492,2.869244E-2
+09,Connecticut,2022,Percent,0.16752,2.7847802299999998E-2
+09,Connecticut,2023,Percent,0.13719,2.6877038200000002E-2
+09,Connecticut,2024,Percent,0.17476,.0292066187
+10,Delaware,2020,Percent,0.20213,2.7649719999999999E-2
+10,Delaware,2021,Percent,0.17229,2.6236559999999999E-2
+10,Delaware,2022,Percent,0.18251,3.4208778299999999E-2
+10,Delaware,2023,Percent,0.17403,3.0382720799999999E-2
+10,Delaware,2024,Percent,0.15504,.02843084
+11,Dist. of Columbia,2020,Percent,0.09312,1.413944E-2
+11,Dist. of Columbia,2021,Percent,0.09824,1.8915959999999999E-2
+11,Dist. of Columbia,2022,Percent,0.09683,1.8549706799999999E-2
+11,Dist. of Columbia,2023,Percent,0.08558,1.8584009299999999E-2
+11,Dist. of Columbia,2024,Percent,0.09204,.0195035357
+12,Florida,2020,Percent,0.17853,1.189524E-2
+12,Florida,2021,Percent,0.18137,1.3792519999999999E-2
+12,Florida,2022,Percent,0.16365,1.48701593E-2
+12,Florida,2023,Percent,0.18679,1.5273109999999999E-2
+12,Florida,2024,Percent,0.157,.014195432
+13,Georgia,2020,Percent,0.16435,2.1546279999999998E-2
+13,Georgia,2021,Percent,0.16352,2.2828119999999997E-2
+13,Georgia,2022,Percent,0.17149,2.6186469899999999E-2
+13,Georgia,2023,Percent,0.16101,2.52600238E-2
+13,Georgia,2024,Percent,0.16321,.0241023507
+15,Hawaii,2020,Percent,0.13956,2.3206399999999999E-2
+15,Hawaii,2021,Percent,0.13237,2.1350279999999999E-2
+15,Hawaii,2022,Percent,0.10809,1.73444785E-2
+15,Hawaii,2023,Percent,0.1275,2.2804964300000001E-2
+15,Hawaii,2024,Percent,0.12545,.0199193023
+16,Idaho,2020,Percent,0.20736,2.233812E-2
+16,Idaho,2021,Percent,0.19504,2.5873959999999998E-2
+16,Idaho,2022,Percent,0.18034,2.4310288999999999E-2
+16,Idaho,2023,Percent,0.20714,2.48299222E-2
+16,Idaho,2024,Percent,0.20539,.0255954955
+17,Illinois,2020,Percent,0.19285,1.8037879999999999E-2
+17,Illinois,2021,Percent,0.18,1.8618040000000002E-2
+17,Illinois,2022,Percent,0.15769,1.6664788100000001E-2
+17,Illinois,2023,Percent,0.15369,1.54246148E-2
+17,Illinois,2024,Percent,0.14947,.0208600424
+18,Indiana,2020,Percent,0.18875,2.4531359999999999E-2
+18,Indiana,2021,Percent,0.20739,2.7894719999999998E-2
+18,Indiana,2022,Percent,0.17055,2.5491692100000001E-2
+18,Indiana,2023,Percent,0.17252,2.3649653400000002E-2
+18,Indiana,2024,Percent,0.17507,.0305578429
+19,Iowa,2020,Percent,0.20686,3.0820999999999998E-2
+19,Iowa,2021,Percent,0.166,3.6350159999999999E-2
+19,Iowa,2022,Percent,0.1582,2.33737044E-2
+19,Iowa,2023,Percent,0.16149,2.2042488700000001E-2
+19,Iowa,2024,Percent,0.18825,.03077236
+20,Kansas,2020,Percent,0.19705,2.8102479999999999E-2
+20,Kansas,2021,Percent,0.18734,3.7222360000000003E-2
+20,Kansas,2022,Percent,0.21767,3.1057702400000001E-2
+20,Kansas,2023,Percent,0.20222,2.66319998E-2
+20,Kansas,2024,Percent,0.15901,.0345960334
+21,Kentucky,2020,Percent,0.16644,3.3055400000000006E-2
+21,Kentucky,2021,Percent,0.17695,3.28986E-2
+21,Kentucky,2022,Percent,0.15712,3.1121932000000001E-2
+21,Kentucky,2023,Percent,0.16993,2.9990863100000001E-2
+21,Kentucky,2024,Percent,0.1511,.0297743957
+22,Louisiana,2020,Percent,0.19395,1.8423999999999999E-2
+22,Louisiana,2021,Percent,0.16207,1.8326000000000002E-2
+22,Louisiana,2022,Percent,0.17067,1.81328319E-2
+22,Louisiana,2023,Percent,0.17336,2.5915110500000001E-2
+22,Louisiana,2024,Percent,0.15937,.0236490984
+23,Maine,2020,Percent,0.21058,3.7741759999999999E-2
+23,Maine,2021,Percent,0.18658,3.2877040000000003E-2
+23,Maine,2022,Percent,0.16881,4.0497474399999997E-2
+23,Maine,2023,Percent,0.16711,2.94446833E-2
+23,Maine,2024,Percent,0.1614,.0300041791
+24,Maryland,2020,Percent,0.13301,2.0909279999999999E-2
+24,Maryland,2021,Percent,0.15776,2.3196600000000001E-2
+24,Maryland,2022,Percent,0.16353,2.6114728300000001E-2
+24,Maryland,2023,Percent,0.1394,2.6322895700000001E-2
+24,Maryland,2024,Percent,0.12691,.0247272421
+25,Massachusetts,2020,Percent,0.15258,1.896888E-2
+25,Massachusetts,2021,Percent,0.17828,2.1659959999999999E-2
+25,Massachusetts,2022,Percent,0.14958,1.7213873599999999E-2
+25,Massachusetts,2023,Percent,0.14674,1.74533576E-2
+25,Massachusetts,2024,Percent,0.16027,.0209121816
+26,Michigan,2020,Percent,0.15535,1.7075519999999997E-2
+26,Michigan,2021,Percent,0.18339,2.1120960000000001E-2
+26,Michigan,2022,Percent,0.1814,2.2264422799999999E-2
+26,Michigan,2023,Percent,0.15834,1.91846993E-2
+26,Michigan,2024,Percent,0.14496,.0220141262
+27,Minnesota,2020,Percent,0.20346,3.055248E-2
+27,Minnesota,2021,Percent,0.17038,2.4592120000000002E-2
+27,Minnesota,2022,Percent,0.19066,3.0109409199999999E-2
+27,Minnesota,2023,Percent,0.17297,2.8854798500000001E-2
+27,Minnesota,2024,Percent,0.17127,.029337978
+28,Mississippi,2020,Percent,0.20361,2.42746E-2
+28,Mississippi,2021,Percent,0.17846,1.9039440000000001E-2
+28,Mississippi,2022,Percent,0.18045,2.6333306000000001E-2
+28,Mississippi,2023,Percent,0.18606,2.72781216E-2
+28,Mississippi,2024,Percent,0.18588,.0357738957
+29,Missouri,2020,Percent,0.18858,3.1840199999999999E-2
+29,Missouri,2021,Percent,0.20175,3.7775079999999996E-2
+29,Missouri,2022,Percent,0.19263,2.8791002900000001E-2
+29,Missouri,2023,Percent,0.15466,2.65611652E-2
+29,Missouri,2024,Percent,0.19398,.026180068
+30,Montana,2020,Percent,0.19306,2.71068E-2
+30,Montana,2021,Percent,0.20634,2.818872E-2
+30,Montana,2022,Percent,0.18952,3.1135691300000001E-2
+30,Montana,2023,Percent,0.17853,2.76562944E-2
+30,Montana,2024,Percent,0.17971,.0268471986
+31,Nebraska,2020,Percent,0.21124,3.2461520000000001E-2
+31,Nebraska,2021,Percent,0.18882,2.50096E-2
+31,Nebraska,2022,Percent,0.18408,2.93074194E-2
+31,Nebraska,2023,Percent,0.21204,2.9862753999999998E-2
+31,Nebraska,2024,Percent,0.1741,.0259704422
+32,Nevada,2020,Percent,0.14933,2.4939039999999999E-2
+32,Nevada,2021,Percent,0.17524,2.650508E-2
+32,Nevada,2022,Percent,0.15569,2.4605119599999999E-2
+32,Nevada,2023,Percent,0.15925,2.5952910999999999E-2
+32,Nevada,2024,Percent,0.13944,.0231985878
+33,New Hampshire,2020,Percent,0.17429,2.489396E-2
+33,New Hampshire,2021,Percent,0.18082,2.2189159999999999E-2
+33,New Hampshire,2022,Percent,0.20674,2.8929209300000001E-2
+33,New Hampshire,2023,Percent,0.17985,2.58639827E-2
+33,New Hampshire,2024,Percent,0.18407,.0305331014
+34,New Jersey,2020,Percent,0.14209,2.0352639999999998E-2
+34,New Jersey,2021,Percent,0.15958,2.2230319999999998E-2
+34,New Jersey,2022,Percent,0.14701,1.9920092100000002E-2
+34,New Jersey,2023,Percent,0.12791,2.0157083900000001E-2
+34,New Jersey,2024,Percent,0.13445,.0216183327
+35,New Mexico,2020,Percent,0.14355,2.006256E-2
+35,New Mexico,2021,Percent,0.13593,1.6373840000000001E-2
+35,New Mexico,2022,Percent,0.15942,2.04827078E-2
+35,New Mexico,2023,Percent,0.14012,1.50180208E-2
+35,New Mexico,2024,Percent,0.1441,.0220708065
+36,New York,2020,Percent,0.14718,1.5413439999999999E-2
+36,New York,2021,Percent,0.12657,1.2544E-2
+36,New York,2022,Percent,0.1366,1.50865875E-2
+36,New York,2023,Percent,0.11486,1.4515453899999999E-2
+36,New York,2024,Percent,0.12487,.0136362482
+37,North Carolina,2020,Percent,0.20259,2.1103320000000002E-2
+37,North Carolina,2021,Percent,0.21427,1.8002600000000001E-2
+37,North Carolina,2022,Percent,0.18242,1.90680269E-2
+37,North Carolina,2023,Percent,0.17365,2.1074373300000001E-2
+37,North Carolina,2024,Percent,0.17432,.0222242251
+38,North Dakota,2020,Percent,0.21239,4.1195279999999994E-2
+38,North Dakota,2021,Percent,0.23998,3.4731199999999997E-2
+38,North Dakota,2022,Percent,0.16523,2.5285255199999999E-2
+38,North Dakota,2023,Percent,0.19513,3.1573403600000001E-2
+38,North Dakota,2024,Percent,0.19052,.0254229829
+39,Ohio,2020,Percent,0.2109,2.0127240000000001E-2
+39,Ohio,2021,Percent,0.18556,2.232636E-2
+39,Ohio,2022,Percent,0.18159,1.79302935E-2
+39,Ohio,2023,Percent,0.16751,2.3535514300000001E-2
+39,Ohio,2024,Percent,0.15802,.0194665585
+40,Oklahoma,2020,Percent,0.19674,2.9405880000000002E-2
+40,Oklahoma,2021,Percent,0.1807,2.9088360000000001E-2
+40,Oklahoma,2022,Percent,0.16536,2.3800905800000001E-2
+40,Oklahoma,2023,Percent,0.13206,2.0704418400000001E-2
+40,Oklahoma,2024,Percent,0.1815,.0254008435
+41,Oregon,2020,Percent,0.18648,3.1587359999999995E-2
+41,Oregon,2021,Percent,0.14219,1.6934399999999999E-2
+41,Oregon,2022,Percent,0.14244,2.35959645E-2
+41,Oregon,2023,Percent,0.1557,1.9381770900000001E-2
+41,Oregon,2024,Percent,0.13457,.0228722095
+42,Pennsylvania,2020,Percent,0.16117,1.6295440000000001E-2
+42,Pennsylvania,2021,Percent,0.16107,1.9233480000000001E-2
+42,Pennsylvania,2022,Percent,0.13279,1.5318699200000001E-2
+42,Pennsylvania,2023,Percent,0.15832,1.68806762E-2
+42,Pennsylvania,2024,Percent,0.14078,.0192898475
+44,Rhode Island,2020,Percent,0.12718,2.6026839999999999E-2
+44,Rhode Island,2021,Percent,0.13982,2.6277720000000001E-2
+44,Rhode Island,2022,Percent,0.12509,2.6153070899999999E-2
+44,Rhode Island,2023,Percent,0.10672,2.4398991799999999E-2
+44,Rhode Island,2024,Percent,0.18455,.0345772356
+45,South Carolina,2020,Percent,0.15768,2.3592520000000002E-2
+45,South Carolina,2021,Percent,0.1885,2.6899039999999999E-2
+45,South Carolina,2022,Percent,0.14896,3.5243257899999998E-2
+45,South Carolina,2023,Percent,0.16656,3.0078019899999999E-2
+45,South Carolina,2024,Percent,0.19552,.024055846
+46,South Dakota,2020,Percent,0.19614,3.6401120000000002E-2
+46,South Dakota,2021,Percent,0.14772,2.5446679999999999E-2
+46,South Dakota,2022,Percent,0.207,4.3065808699999999E-2
+46,South Dakota,2023,Percent,0.17149,3.3105343600000003E-2
+46,South Dakota,2024,Percent,0.19136,.0299787447
+47,Tennessee,2020,Percent,0.19408,2.2114679999999998E-2
+47,Tennessee,2021,Percent,0.16918,2.0705440000000002E-2
+47,Tennessee,2022,Percent,0.14279,2.2160707000000002E-2
+47,Tennessee,2023,Percent,0.15557,1.9830592000000001E-2
+47,Tennessee,2024,Percent,0.17402,.024944175
+48,Texas,2020,Percent,0.18249,1.1763920000000001E-2
+48,Texas,2021,Percent,0.17396,1.271452E-2
+48,Texas,2022,Percent,0.19887,1.40795186E-2
+48,Texas,2023,Percent,0.17625,1.3659341300000001E-2
+48,Texas,2024,Percent,0.16202,.0128659317
+49,Utah,2020,Percent,0.19358,2.3169159999999998E-2
+49,Utah,2021,Percent,0.1908,2.515856E-2
+49,Utah,2022,Percent,0.16956,2.6668978900000001E-2
+49,Utah,2023,Percent,0.20496,3.2425306700000003E-2
+49,Utah,2024,Percent,0.18415,.0253666621
+50,Vermont,2020,Percent,0.1815,2.3118199999999998E-2
+50,Vermont,2021,Percent,0.20325,2.8761039999999998E-2
+50,Vermont,2022,Percent,0.17422,2.37897821E-2
+50,Vermont,2023,Percent,0.20774,2.8162781099999999E-2
+50,Vermont,2024,Percent,0.20175,.0279829018
+51,Virginia,2020,Percent,0.18735,1.9335399999999999E-2
+51,Virginia,2021,Percent,0.17069,2.2567440000000001E-2
+51,Virginia,2022,Percent,0.15951,2.5089846900000001E-2
+51,Virginia,2023,Percent,0.15219,2.4182207899999999E-2
+51,Virginia,2024,Percent,0.14951,.0198427867
+53,Washington,2020,Percent,0.13342,1.7818359999999998E-2
+53,Washington,2021,Percent,0.13223,1.493324E-2
+53,Washington,2022,Percent,0.13128,2.4308107799999999E-2
+53,Washington,2023,Percent,0.14911,2.1706922E-2
+53,Washington,2024,Percent,0.14338,.0262526702
+54,West Virginia,2020,Percent,0.1812,2.534084E-2
+54,West Virginia,2021,Percent,0.17473,1.809668E-2
+54,West Virginia,2022,Percent,0.1959,2.2036146400000001E-2
+54,West Virginia,2023,Percent,0.16043,2.9451379600000001E-2
+54,West Virginia,2024,Percent,0.18285,.0174654424
+55,Wisconsin,2020,Percent,0.20567,2.9386279999999997E-2
+55,Wisconsin,2021,Percent,0.18856,2.4443159999999998E-2
+55,Wisconsin,2022,Percent,0.15099,2.0699406E-2
+55,Wisconsin,2023,Percent,0.16418,2.9752304800000001E-2
+55,Wisconsin,2024,Percent,0.18603,.0263490546
+56,Wyoming,2020,Percent,0.274,3.5775879999999996E-2
+56,Wyoming,2021,Percent,0.25678,3.3710039999999997E-2
+56,Wyoming,2022,Percent,0.24106,2.86532696E-2
+56,Wyoming,2023,Percent,0.25799,4.0495228000000001E-2
+56,Wyoming,2024,Percent,0.21409,.0509433597

@@ -1,0 +1,530 @@
+﻿Indicator,Average annual employer sponsored insurance premium by Plan Type
+Source,"Medical Expenditure Panel Survey - Insurance Component (MEPS-IC), Agency for Healthcare Research and Quality (AHRQ), Center for Financing, Access and Cost Trends (CFACT).<br />
+<br />
+Suggested Citation:<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE]."
+Notes,"The margin of error (MOE) represents the uncertainty of an estimate due to sampling variability; the calculated MOE is 95%. N/A indicates that data were not available or suppressed by AHRQ due to large standard errors. The MEPS/IC did not collect data for 2007. Data collection for the 2020 MEPS/IC was impacted by the COVID-19 pandemic which may have impacted 2020 estimates. More information about changes made to the 2020 survey methodology is available in AHRQ Methodology Report 34, "Sample Design of the 2020 Medical Expenditure Panel Survey Insurance Component.""
+Description,Average annual premium for a private sector worker who gets health insurance through his or her employer by plan type.
+
+
+Fips,Location,Plan Type,TimeFrame,Data Type,Data,MOE
+US,United States,Single,2021,Dollars,7380,72.010400000000004
+US,United States,Family,2021,Dollars,21381,218.5008
+US,United States,Single,2020,Dollars,7149,68.541200000000003
+US,United States,Family,2020,Dollars,20758,242.0796
+US,United States,Single,2022,Dollars,7590,75.362000000000009
+US,United States,Family,2022,Dollars,21931,239.10039999999998
+US,United States,Single,2023,Dollars,8182,93.472399999999993
+US,United States,Family,2023,Dollars,23938,281.55400000000003
+US,United States,Family,2024,Dollars,24540,318.69601440429688
+US,United States,Single,2024,Dollars,8486,171.06880187988281
+01,Alabama,Single,2021,Dollars,6719,297.82199999999995
+01,Alabama,Family,2021,Dollars,19539,848.44479999999999
+01,Alabama,Single,2020,Dollars,6393,433.98319999999995
+01,Alabama,Family,2020,Dollars,17324,1129.8224
+01,Alabama,Single,2022,Dollars,6769,313.2276
+01,Alabama,Family,2022,Dollars,19575,889.46759999999995
+01,Alabama,Single,2023,Dollars,7645,383.12119999999999
+01,Alabama,Family,2023,Dollars,21102,1350.9692
+01,Alabama,Family,2024,Dollars,23986,1510.9051513671875
+01,Alabama,Single,2024,Dollars,7856,422.34078979492188
+02,Alaska,Single,2021,Dollars,9037,778.02199999999993
+02,Alaska,Family,2021,Dollars,23438,1444.7356
+02,Alaska,Single,2020,Dollars,8635,393.58760000000001
+02,Alaska,Family,2020,Dollars,21809,1704.2395999999999
+02,Alaska,Single,2022,Dollars,8624,682.92280000000005
+02,Alaska,Family,2022,Dollars,25892,2069.0936000000002
+02,Alaska,Single,2023,Dollars,9096,573.75080000000003
+02,Alaska,Family,2023,Dollars,25876,1514.394
+02,Alaska,Family,2024,Dollars,25493,1938.067626953125
+02,Alaska,Single,2024,Dollars,9326,549.11358642578125
+04,Arizona,Single,2021,Dollars,6728,333.61160000000001
+04,Arizona,Family,2021,Dollars,20117,1012.6535999999999
+04,Arizona,Single,2020,Dollars,6612,285.08199999999999
+04,Arizona,Family,2020,Dollars,19808,1470.5095999999999
+04,Arizona,Single,2022,Dollars,7214,469.92959999999999
+04,Arizona,Family,2022,Dollars,21427,1353.576
+04,Arizona,Single,2023,Dollars,7981,408.75800000000004
+04,Arizona,Family,2023,Dollars,23758,1254.7331999999999
+04,Arizona,Family,2024,Dollars,23132,1295.16796875
+04,Arizona,Single,2024,Dollars,8311,824.45440673828125
+05,Arkansas,Single,2021,Dollars,6340,304.83879999999999
+05,Arkansas,Family,2021,Dollars,18339,1067.22
+05,Arkansas,Single,2020,Dollars,6414,434.92399999999998
+05,Arkansas,Family,2020,Dollars,17093,1443.6379999999999
+05,Arkansas,Single,2022,Dollars,6861,380.04399999999998
+05,Arkansas,Family,2022,Dollars,19513,902.99159999999995
+05,Arkansas,Single,2023,Dollars,7362,451.07439999999997
+05,Arkansas,Family,2023,Dollars,20562,1526.6635999999999
+05,Arkansas,Family,2024,Dollars,22069,3013.539306640625
+05,Arkansas,Single,2024,Dollars,7533,497.01681518554688
+06,California,Single,2021,Dollars,7574,337.21800000000002
+06,California,Family,2021,Dollars,21830,814.34080000000006
+06,California,Single,2020,Dollars,7173,285.84640000000002
+06,California,Family,2020,Dollars,21137,1224.4903999999999
+06,California,Single,2022,Dollars,7547,237.25799999999998
+06,California,Family,2022,Dollars,22272,753.50239999999997
+06,California,Single,2023,Dollars,8070,312.13
+06,California,Family,2023,Dollars,23943,1037.6435999999999
+06,California,Family,2024,Dollars,24143,1244.7568359375
+06,California,Single,2024,Dollars,8965,755.9915771484375
+08,Colorado,Single,2021,Dollars,6909,379.9264
+08,Colorado,Family,2021,Dollars,20771,1142.0920000000001
+08,Colorado,Single,2020,Dollars,7206,330.86759999999998
+08,Colorado,Family,2020,Dollars,21292,1003.0887999999999
+08,Colorado,Single,2022,Dollars,7031,459.4436
+08,Colorado,Family,2022,Dollars,20466,992.99479999999994
+08,Colorado,Single,2023,Dollars,8145,355.70079999999996
+08,Colorado,Family,2023,Dollars,23980,1572.2531999999999
+08,Colorado,Family,2024,Dollars,24974,1602.6920166015625
+08,Colorado,Single,2024,Dollars,8375,495.58599853515625
+09,Connecticut,Single,2021,Dollars,7717,378.75040000000001
+09,Connecticut,Family,2021,Dollars,24018,1477.5068000000001
+09,Connecticut,Single,2020,Dollars,7501,376.18279999999999
+09,Connecticut,Family,2020,Dollars,21952,905.55919999999992
+09,Connecticut,Single,2022,Dollars,8237,344.76400000000001
+09,Connecticut,Family,2022,Dollars,24746,1244.5020000000002
+09,Connecticut,Single,2023,Dollars,8750,451.21160000000003
+09,Connecticut,Family,2023,Dollars,25529,1358.9660000000001
+09,Connecticut,Family,2024,Dollars,27058,1372.333251953125
+09,Connecticut,Single,2024,Dollars,8953,515.7935791015625
+10,Delaware,Single,2021,Dollars,7906,492.48920000000004
+10,Delaware,Family,2021,Dollars,22079,1451.0663999999999
+10,Delaware,Single,2020,Dollars,7280,482.51280000000003
+10,Delaware,Family,2020,Dollars,21565,1498.616
+10,Delaware,Single,2022,Dollars,8168,400.54560000000004
+10,Delaware,Family,2022,Dollars,23681,1633.954
+10,Delaware,Single,2023,Dollars,7629,831.17719999999997
+10,Delaware,Family,2023,Dollars,22049,3515.9263999999998
+10,Delaware,Family,2024,Dollars,27869,1735.4427490234375
+10,Delaware,Single,2024,Dollars,9140,527.25958251953125
+11,Dist. of Columbia,Single,2021,Dollars,8379,545.66399999999999
+11,Dist. of Columbia,Family,2021,Dollars,24455,1330.2324000000001
+11,Dist. of Columbia,Single,2020,Dollars,7558,402.19199999999995
+11,Dist. of Columbia,Family,2020,Dollars,22502,1448.5772000000002
+11,Dist. of Columbia,Single,2022,Dollars,8650,500.32920000000001
+11,Dist. of Columbia,Family,2022,Dollars,24170,2099.65
+11,Dist. of Columbia,Single,2023,Dollars,8738,510.99159999999995
+11,Dist. of Columbia,Family,2023,Dollars,25793,1134.0755999999999
+11,Dist. of Columbia,Family,2024,Dollars,27457,1727.2108154296875
+11,Dist. of Columbia,Single,2024,Dollars,8902,354.95599365234375
+12,Florida,Single,2021,Dollars,7372,395.84160000000003
+12,Florida,Family,2021,Dollars,21184,1450.7920000000001
+12,Florida,Single,2020,Dollars,7078,287.92399999999998
+12,Florida,Family,2020,Dollars,20862,702.30719999999997
+12,Florida,Single,2022,Dollars,7551,375.18319999999994
+12,Florida,Family,2022,Dollars,21441,1019.0039999999999
+12,Florida,Single,2023,Dollars,8251,415.18680000000001
+12,Florida,Family,2023,Dollars,23597,1475.8407999999999
+12,Florida,Family,2024,Dollars,24807,1512.865234375
+12,Florida,Single,2024,Dollars,9016,937.899169921875
+13,Georgia,Single,2021,Dollars,7285,337.82560000000001
+13,Georgia,Family,2021,Dollars,22282,999.93320000000006
+13,Georgia,Single,2020,Dollars,6876,623.41719999999998
+13,Georgia,Family,2020,Dollars,19891,1776.0931999999998
+13,Georgia,Single,2022,Dollars,7367,372.00800000000004
+13,Georgia,Family,2022,Dollars,22220,1087.702
+13,Georgia,Single,2023,Dollars,7955,743.72199999999998
+13,Georgia,Family,2023,Dollars,24360,1352.1648
+13,Georgia,Family,2024,Dollars,23363,1369.1187744140625
+13,Georgia,Single,2024,Dollars,7819,382.3568115234375
+15,Hawaii,Single,2021,Dollars,6573,326.73199999999997
+15,Hawaii,Family,2021,Dollars,18539,1359.6912
+15,Hawaii,Single,2020,Dollars,7040,323.85079999999999
+15,Hawaii,Family,2020,Dollars,19567,1637.8935999999999
+15,Hawaii,Single,2022,Dollars,7367,298.74319999999994
+15,Hawaii,Family,2022,Dollars,20804,842.3492
+15,Hawaii,Single,2023,Dollars,7730,489.54919999999998
+15,Hawaii,Family,2023,Dollars,20730,1787.8139999999999
+15,Hawaii,Family,2024,Dollars,22709,1580.66162109375
+15,Hawaii,Single,2024,Dollars,7504,744.27081298828125
+16,Idaho,Single,2021,Dollars,6734,351.36920000000003
+16,Idaho,Family,2021,Dollars,19788,1001.658
+16,Idaho,Single,2020,Dollars,6744,388.76599999999996
+16,Idaho,Family,2020,Dollars,21132,1383.7991999999999
+16,Idaho,Single,2022,Dollars,7292,514.53919999999994
+16,Idaho,Family,2022,Dollars,21153,1876.6020000000001
+16,Idaho,Single,2023,Dollars,7400,460.59999999999997
+16,Idaho,Family,2023,Dollars,22367,1821.9572000000001
+16,Idaho,Family,2024,Dollars,24531,1431.8387451171875
+16,Idaho,Single,2024,Dollars,7524,410.28680419921875
+17,Illinois,Single,2021,Dollars,7395,377.39800000000002
+17,Illinois,Family,2021,Dollars,20878,1184.7024000000001
+17,Illinois,Single,2020,Dollars,7376,257.05400000000003
+17,Illinois,Family,2020,Dollars,21775,1140.6808000000001
+17,Illinois,Single,2022,Dollars,7547,383.06239999999997
+17,Illinois,Family,2022,Dollars,20943,1204.8904
+17,Illinois,Single,2023,Dollars,8070,353.2312
+17,Illinois,Family,2023,Dollars,24290,1357.8488
+17,Illinois,Family,2024,Dollars,24993,1870.8984375
+17,Illinois,Single,2024,Dollars,8783,390.41241455078125
+18,Indiana,Single,2021,Dollars,7635,400.50639999999999
+18,Indiana,Family,2021,Dollars,21281,1542.7160000000001
+18,Indiana,Single,2020,Dollars,7319,377.24119999999999
+18,Indiana,Family,2020,Dollars,20125,1237.8183999999999
+18,Indiana,Single,2022,Dollars,7601,361.50239999999997
+18,Indiana,Family,2022,Dollars,21502,1090.6027999999999
+18,Indiana,Single,2023,Dollars,8236,380.1028
+18,Indiana,Family,2023,Dollars,22965,1252.8320000000001
+18,Indiana,Family,2024,Dollars,24725,1998.7099609375
+18,Indiana,Single,2024,Dollars,8483,429.2008056640625
+19,Iowa,Single,2021,Dollars,6999,340.33439999999996
+19,Iowa,Family,2021,Dollars,20567,1116.1220000000001
+19,Iowa,Single,2020,Dollars,6932,286.21879999999999
+19,Iowa,Family,2020,Dollars,18934,1101.4808
+19,Iowa,Single,2022,Dollars,7433,568.71360000000004
+19,Iowa,Family,2022,Dollars,21696,1492.3047999999999
+19,Iowa,Single,2023,Dollars,8017,349.9776
+19,Iowa,Family,2023,Dollars,23152,1053.5588
+19,Iowa,Family,2024,Dollars,22954,1482.583251953125
+19,Iowa,Single,2024,Dollars,7641,367.2255859375
+20,Kansas,Single,2021,Dollars,6889,380.16160000000002
+20,Kansas,Family,2021,Dollars,19237,1361.7687999999998
+20,Kansas,Single,2020,Dollars,6675,343.96039999999999
+20,Kansas,Family,2020,Dollars,20247,971.82679999999993
+20,Kansas,Single,2022,Dollars,6885,339.84439999999995
+20,Kansas,Family,2022,Dollars,19461,1242.2675999999999
+20,Kansas,Single,2023,Dollars,7575,357.60199999999998
+20,Kansas,Family,2023,Dollars,23018,1694.8707999999999
+20,Kansas,Family,2024,Dollars,24220,1146.7371826171875
+20,Kansas,Single,2024,Dollars,7874,357.93521118164063
+21,Kentucky,Single,2021,Dollars,7319,345.0188
+21,Kentucky,Family,2021,Dollars,21531,1588.7955999999999
+21,Kentucky,Single,2020,Dollars,6949,273.57679999999999
+21,Kentucky,Family,2020,Dollars,20396,797.52399999999989
+21,Kentucky,Single,2022,Dollars,6990,288.7276
+21,Kentucky,Family,2022,Dollars,22225,1193.1695999999999
+21,Kentucky,Single,2023,Dollars,8002,442.82280000000003
+21,Kentucky,Family,2023,Dollars,23553,1114.3775999999998
+21,Kentucky,Family,2024,Dollars,23584,1685.34521484375
+21,Kentucky,Single,2024,Dollars,8067,359.89520263671875
+22,Louisiana,Single,2021,Dollars,6785,284.27839999999998
+22,Louisiana,Family,2021,Dollars,19305,1086.2712000000001
+22,Louisiana,Single,2020,Dollars,6713,407.07240000000002
+22,Louisiana,Family,2020,Dollars,18930,1271.5304000000001
+22,Louisiana,Single,2022,Dollars,7422,347.35120000000001
+22,Louisiana,Family,2022,Dollars,20345,1161.0060000000001
+22,Louisiana,Single,2023,Dollars,7966,372.94880000000001
+22,Louisiana,Family,2023,Dollars,23325,2202.7851999999998
+22,Louisiana,Family,2024,Dollars,23190,1614.8636474609375
+22,Louisiana,Single,2024,Dollars,8158,445.60598754882813
+23,Maine,Single,2021,Dollars,7677,357.58240000000001
+23,Maine,Family,2021,Dollars,21630,892.64279999999997
+23,Maine,Single,2020,Dollars,7496,273.30239999999998
+23,Maine,Family,2020,Dollars,20728,656.42360000000008
+23,Maine,Single,2022,Dollars,7993,423.8304
+23,Maine,Family,2022,Dollars,22667,1630.0731999999998
+23,Maine,Single,2023,Dollars,8892,571.67320000000007
+23,Maine,Family,2023,Dollars,25207,1342.9135999999999
+23,Maine,Family,2024,Dollars,25568,1267.9044189453125
+23,Maine,Single,2024,Dollars,8769,445.42959594726563
+24,Maryland,Single,2021,Dollars,7272,383.82679999999999
+24,Maryland,Family,2021,Dollars,21648,1492.2264
+24,Maryland,Single,2020,Dollars,7352,295.666
+24,Maryland,Family,2020,Dollars,20424,991.36800000000005
+24,Maryland,Single,2022,Dollars,7978,404.83800000000002
+24,Maryland,Family,2022,Dollars,22341,887.6644
+24,Maryland,Single,2023,Dollars,7870,316.34399999999999
+24,Maryland,Family,2023,Dollars,23945,1443.8339999999998
+24,Maryland,Family,2024,Dollars,24738,1953.669189453125
+24,Maryland,Single,2024,Dollars,7960,612.48040771484375
+25,Massachusetts,Single,2021,Dollars,8088,400.29079999999999
+25,Massachusetts,Family,2021,Dollars,22163,1046.8556000000001
+25,Massachusetts,Single,2020,Dollars,7452,342.37279999999998
+25,Massachusetts,Family,2020,Dollars,21965,1151.6175999999998
+25,Massachusetts,Single,2022,Dollars,8054,358.15079999999995
+25,Massachusetts,Family,2022,Dollars,23348,1048.992
+25,Massachusetts,Single,2023,Dollars,9513,929.41239999999993
+25,Massachusetts,Family,2023,Dollars,26355,1937.4208000000001
+25,Massachusetts,Family,2024,Dollars,28151,1360.43603515625
+25,Massachusetts,Single,2024,Dollars,9412,666.55682373046875
+26,Michigan,Single,2021,Dollars,7204,453.34800000000001
+26,Michigan,Family,2021,Dollars,20142,1089.2503999999999
+26,Michigan,Single,2020,Dollars,6683,373.43880000000001
+26,Michigan,Family,2020,Dollars,20008,1075.452
+26,Michigan,Single,2022,Dollars,7276,368.91120000000001
+26,Michigan,Family,2022,Dollars,20175,886.72360000000003
+26,Michigan,Single,2023,Dollars,7775,519.8116
+26,Michigan,Family,2023,Dollars,22718,1604.1031999999998
+26,Michigan,Family,2024,Dollars,24252,1352.2431640625
+26,Michigan,Single,2024,Dollars,8885,1097.501953125
+27,Minnesota,Single,2021,Dollars,7448,308.03359999999998
+27,Minnesota,Family,2021,Dollars,21327,1387.7975999999999
+27,Minnesota,Single,2020,Dollars,6910,510.34479999999996
+27,Minnesota,Family,2020,Dollars,20624,1325.7439999999999
+27,Minnesota,Single,2022,Dollars,7526,313.12959999999998
+27,Minnesota,Family,2022,Dollars,22934,1764.2156
+27,Minnesota,Single,2023,Dollars,8355,550.11320000000001
+27,Minnesota,Family,2023,Dollars,25212,1827.6020000000001
+27,Minnesota,Family,2024,Dollars,23565,1340.5616455078125
+27,Minnesota,Single,2024,Dollars,8095,363.89358520507813
+28,Mississippi,Single,2021,Dollars,7008,384.76760000000002
+28,Mississippi,Family,2021,Dollars,20373,1054.9895999999999
+28,Mississippi,Single,2020,Dollars,6561,300.42880000000002
+28,Mississippi,Family,2020,Dollars,19058,1319.0408
+28,Mississippi,Single,2022,Dollars,6726,379.55400000000003
+28,Mississippi,Family,2022,Dollars,20410,1098.9916000000001
+28,Mississippi,Single,2023,Dollars,7243,434.82599999999996
+28,Mississippi,Family,2023,Dollars,21939,1374.3715999999999
+28,Mississippi,Family,2024,Dollars,22271,2411.936767578125
+28,Mississippi,Single,2024,Dollars,7564,621.67279052734375
+29,Missouri,Single,2021,Dollars,7239,277.3596
+29,Missouri,Family,2021,Dollars,21827,1087.31
+29,Missouri,Single,2020,Dollars,7179,416.81360000000001
+29,Missouri,Family,2020,Dollars,21231,973.61040000000003
+29,Missouri,Single,2022,Dollars,7737,454.15160000000003
+29,Missouri,Family,2022,Dollars,21824,1178.5675999999999
+29,Missouri,Single,2023,Dollars,8230,473.77119999999996
+29,Missouri,Family,2023,Dollars,23387,1483.328
+29,Missouri,Family,2024,Dollars,23831,2323.384033203125
+29,Missouri,Single,2024,Dollars,8552,663.0679931640625
+30,Montana,Single,2021,Dollars,7306,353.42719999999997
+30,Montana,Family,2021,Dollars,20921,935.84120000000007
+30,Montana,Single,2020,Dollars,6860,320.18560000000002
+30,Montana,Family,2020,Dollars,19401,1189.4259999999999
+30,Montana,Single,2022,Dollars,7759,475.20199999999994
+30,Montana,Family,2022,Dollars,21322,2320.8751999999999
+30,Montana,Single,2023,Dollars,7821,525.04480000000001
+30,Montana,Family,2023,Dollars,22771,1362.6704
+30,Montana,Family,2024,Dollars,22294,1959.1180419921875
+30,Montana,Single,2024,Dollars,7943,410.11041259765625
+31,Nebraska,Single,2021,Dollars,7774,396.27280000000002
+31,Nebraska,Family,2021,Dollars,21685,1114.5344
+31,Nebraska,Single,2020,Dollars,7611,297.1164
+31,Nebraska,Family,2020,Dollars,20602,1145.6199999999999
+31,Nebraska,Single,2022,Dollars,7601,290.82479999999998
+31,Nebraska,Family,2022,Dollars,21769,1301.0675999999999
+31,Nebraska,Single,2023,Dollars,8248,445.58640000000003
+31,Nebraska,Family,2023,Dollars,23887,1382.6427999999999
+31,Nebraska,Family,2024,Dollars,23696,1509.2979736328125
+31,Nebraska,Single,2024,Dollars,7797,513.85321044921875
+32,Nevada,Single,2021,Dollars,6748,414.1284
+32,Nevada,Family,2021,Dollars,20103,981.29360000000008
+32,Nevada,Single,2020,Dollars,6493,311.50280000000004
+32,Nevada,Family,2020,Dollars,19524,1497.636
+32,Nevada,Single,2022,Dollars,6848,456.68
+32,Nevada,Family,2022,Dollars,20783,1823.3879999999999
+32,Nevada,Single,2023,Dollars,7949,558.83519999999999
+32,Nevada,Family,2023,Dollars,21956,1423.9595999999999
+32,Nevada,Family,2024,Dollars,21988,1303.595947265625
+32,Nevada,Single,2024,Dollars,7449,377.08441162109375
+33,New Hampshire,Single,2021,Dollars,7963,352.36880000000002
+33,New Hampshire,Family,2021,Dollars,24297,1694.2043999999999
+33,New Hampshire,Single,2020,Dollars,7991,321.91040000000004
+33,New Hampshire,Family,2020,Dollars,23654,1101.0103999999999
+33,New Hampshire,Single,2022,Dollars,8053,517.24399999999991
+33,New Hampshire,Family,2022,Dollars,24034,2288.7312000000002
+33,New Hampshire,Single,2023,Dollars,8679,521.81079999999997
+33,New Hampshire,Family,2023,Dollars,25983,1610.5516
+33,New Hampshire,Family,2024,Dollars,26119,1448.1263427734375
+33,New Hampshire,Single,2024,Dollars,8352,390.80441284179688
+34,New Jersey,Single,2021,Dollars,7641,446.2724
+34,New Jersey,Family,2021,Dollars,22094,1347.7744
+34,New Jersey,Single,2020,Dollars,7373,380.80839999999995
+34,New Jersey,Family,2020,Dollars,23042,1767.3320000000001
+34,New Jersey,Single,2022,Dollars,8183,467.91079999999999
+34,New Jersey,Family,2022,Dollars,24843,1432.4464
+34,New Jersey,Single,2023,Dollars,9662,756.08960000000002
+34,New Jersey,Family,2023,Dollars,26870,1597.3804
+34,New Jersey,Family,2024,Dollars,27491,1749.456787109375
+34,New Jersey,Single,2024,Dollars,9119,557.42401123046875
+35,New Mexico,Single,2021,Dollars,7566,349.99719999999996
+35,New Mexico,Family,2021,Dollars,20431,1917.664
+35,New Mexico,Single,2020,Dollars,7424,323.87040000000002
+35,New Mexico,Family,2020,Dollars,18949,876.12
+35,New Mexico,Single,2022,Dollars,7794,373.61520000000002
+35,New Mexico,Family,2022,Dollars,21857,1116.5531999999998
+35,New Mexico,Single,2023,Dollars,8333,324.45839999999998
+35,New Mexico,Family,2023,Dollars,24207,1677.76
+35,New Mexico,Family,2024,Dollars,23828,1595.6556396484375
+35,New Mexico,Single,2024,Dollars,8586,459.32598876953125
+36,New York,Single,2021,Dollars,8542,292.05959999999999
+36,New York,Family,2021,Dollars,23450,1181.5663999999999
+36,New York,Single,2020,Dollars,8177,362.38439999999997
+36,New York,Family,2020,Dollars,23381,1026.4127999999998
+36,New York,Single,2022,Dollars,8936,531.80679999999995
+36,New York,Family,2022,Dollars,24368,1659.1204
+36,New York,Single,2023,Dollars,9173,591.27319999999997
+36,New York,Family,2023,Dollars,26355,1411.7292
+36,New York,Family,2024,Dollars,27188,1400.83154296875
+36,New York,Single,2024,Dollars,9589,568.8311767578125
+37,North Carolina,Single,2021,Dollars,7130,357.42560000000003
+37,North Carolina,Family,2021,Dollars,22737,1523.3512000000001
+37,North Carolina,Single,2020,Dollars,7036,263.11040000000003
+37,North Carolina,Family,2020,Dollars,20152,743.81999999999994
+37,North Carolina,Single,2022,Dollars,7753,636.80399999999997
+37,North Carolina,Family,2022,Dollars,19945,2062.9391999999998
+37,North Carolina,Single,2023,Dollars,7742,446.01760000000002
+37,North Carolina,Family,2023,Dollars,22650,1977.3263999999999
+37,North Carolina,Family,2024,Dollars,23120,1429.016357421875
+37,North Carolina,Single,2024,Dollars,8045,408.56201171875
+38,North Dakota,Single,2021,Dollars,7298,371.98839999999996
+38,North Dakota,Family,2021,Dollars,20922,843.85840000000007
+38,North Dakota,Single,2020,Dollars,7216,301.27160000000003
+38,North Dakota,Family,2020,Dollars,19925,817.43759999999997
+38,North Dakota,Single,2022,Dollars,7841,281.0444
+38,North Dakota,Family,2022,Dollars,22196,719.37879999999996
+38,North Dakota,Single,2023,Dollars,8504,435.3356
+38,North Dakota,Family,2023,Dollars,22825,1130.0772000000002
+38,North Dakota,Family,2024,Dollars,23090,1450.08642578125
+38,North Dakota,Single,2024,Dollars,8369,374.39920043945313
+39,Ohio,Single,2021,Dollars,7095,287.53199999999998
+39,Ohio,Family,2021,Dollars,21102,902.3252
+39,Ohio,Single,2020,Dollars,6989,376.57479999999998
+39,Ohio,Family,2020,Dollars,20088,1065.8675999999998
+39,Ohio,Single,2022,Dollars,7743,343.82319999999999
+39,Ohio,Family,2022,Dollars,21760,1003.7748
+39,Ohio,Single,2023,Dollars,8274,316.67719999999997
+39,Ohio,Family,2023,Dollars,23895,1247.9124000000002
+39,Ohio,Family,2024,Dollars,22618,2111.390380859375
+39,Ohio,Single,2024,Dollars,8315,297.07720947265625
+40,Oklahoma,Single,2021,Dollars,7081,331.92599999999999
+40,Oklahoma,Family,2021,Dollars,20108,861.8904
+40,Oklahoma,Single,2020,Dollars,7058,315.46199999999999
+40,Oklahoma,Family,2020,Dollars,19764,1054.48
+40,Oklahoma,Single,2022,Dollars,6713,337.64920000000001
+40,Oklahoma,Family,2022,Dollars,19003,1112.104
+40,Oklahoma,Single,2023,Dollars,7420,288.53160000000003
+40,Oklahoma,Family,2023,Dollars,21913,1347.8331999999998
+40,Oklahoma,Family,2024,Dollars,23050,1169.884765625
+40,Oklahoma,Single,2024,Dollars,7759,349.40921020507813
+41,Oregon,Single,2021,Dollars,7418,660.85320000000002
+41,Oregon,Family,2021,Dollars,20916,1058.3607999999999
+41,Oregon,Single,2020,Dollars,6917,380.3184
+41,Oregon,Family,2020,Dollars,20213,884.64600000000007
+41,Oregon,Single,2022,Dollars,7091,405.46519999999998
+41,Oregon,Family,2022,Dollars,20366,1441.1096
+41,Oregon,Single,2023,Dollars,7962,483.57119999999998
+41,Oregon,Family,2023,Dollars,22796,2173.3851999999997
+41,Oregon,Family,2024,Dollars,24688,1264.866455078125
+41,Oregon,Single,2024,Dollars,8382,430.96481323242188
+42,Pennsylvania,Single,2021,Dollars,7438,294.15680000000003
+42,Pennsylvania,Family,2021,Dollars,21531,1065.4364
+42,Pennsylvania,Single,2020,Dollars,7246,286.96359999999999
+42,Pennsylvania,Family,2020,Dollars,19764,1005.676
+42,Pennsylvania,Single,2022,Dollars,8098,311.11079999999998
+42,Pennsylvania,Family,2022,Dollars,23250,832.86279999999999
+42,Pennsylvania,Single,2023,Dollars,8145,374.34039999999999
+42,Pennsylvania,Family,2023,Dollars,24000,1236.76
+42,Pennsylvania,Family,2024,Dollars,25241,1278.58642578125
+42,Pennsylvania,Single,2024,Dollars,8594,399.64401245117188
+44,Rhode Island,Single,2021,Dollars,8125,476.78959999999995
+44,Rhode Island,Family,2021,Dollars,22381,1427.1543999999999
+44,Rhode Island,Single,2020,Dollars,7326,301.35000000000002
+44,Rhode Island,Family,2020,Dollars,21425,889.5068
+44,Rhode Island,Single,2022,Dollars,8215,402.89760000000001
+44,Rhode Island,Family,2022,Dollars,22955,980.64679999999998
+44,Rhode Island,Single,2023,Dollars,8347,409.93400000000003
+44,Rhode Island,Family,2023,Dollars,23412,1303.4979999999998
+44,Rhode Island,Family,2024,Dollars,25960,1553.9859619140625
+44,Rhode Island,Single,2024,Dollars,9304,570.69317626953125
+45,South Carolina,Single,2021,Dollars,7314,346.80239999999998
+45,South Carolina,Family,2021,Dollars,19453,968.18119999999999
+45,South Carolina,Single,2020,Dollars,7516,300.11520000000002
+45,South Carolina,Family,2020,Dollars,21154,1395.1672000000001
+45,South Carolina,Single,2022,Dollars,7252,371.42
+45,South Carolina,Family,2022,Dollars,21218,1188.7203999999999
+45,South Carolina,Single,2023,Dollars,7428,407.77800000000002
+45,South Carolina,Family,2023,Dollars,22035,1800.2403999999999
+45,South Carolina,Family,2024,Dollars,24280,1351.596435546875
+45,South Carolina,Single,2024,Dollars,8181,601.34759521484375
+46,South Dakota,Single,2021,Dollars,7338,271.28359999999998
+46,South Dakota,Family,2021,Dollars,21301,900.20839999999998
+46,South Dakota,Single,2020,Dollars,7070,303.72160000000002
+46,South Dakota,Family,2020,Dollars,20277,1032.0183999999999
+46,South Dakota,Single,2022,Dollars,7640,356.24959999999999
+46,South Dakota,Family,2022,Dollars,23861,2441.1408000000001
+46,South Dakota,Single,2023,Dollars,8394,347.82159999999999
+46,South Dakota,Family,2023,Dollars,24103,1217.7087999999999
+46,South Dakota,Family,2024,Dollars,24941,1299.4996337890625
+46,South Dakota,Single,2024,Dollars,8340,379.1619873046875
+47,Tennessee,Single,2021,Dollars,6741,314.34479999999996
+47,Tennessee,Family,2021,Dollars,19593,1009.4587999999999
+47,Tennessee,Single,2020,Dollars,6485,310.4248
+47,Tennessee,Family,2020,Dollars,18424,835.70479999999998
+47,Tennessee,Single,2022,Dollars,7182,349.25239999999997
+47,Tennessee,Family,2022,Dollars,20227,1136.31
+47,Tennessee,Single,2023,Dollars,7659,401.5256
+47,Tennessee,Family,2023,Dollars,23271,1582.5627999999999
+47,Tennessee,Family,2024,Dollars,22085,1679.857177734375
+47,Tennessee,Single,2024,Dollars,7510,408.07199096679688
+48,Texas,Single,2021,Dollars,7183,247.744
+48,Texas,Family,2021,Dollars,21288,780.49159999999995
+48,Texas,Single,2020,Dollars,7017,226.41919999999999
+48,Texas,Family,2020,Dollars,20937,751.95399999999995
+48,Texas,Single,2022,Dollars,7351,318.18639999999999
+48,Texas,Family,2022,Dollars,22334,998.93360000000007
+48,Texas,Single,2023,Dollars,8180,437.80520000000001
+48,Texas,Family,2023,Dollars,23976,1258.6335999999999
+48,Texas,Family,2024,Dollars,24106,1213.1224365234375
+48,Texas,Single,2024,Dollars,7833,438.96160888671875
+49,Utah,Single,2021,Dollars,6707,402.72120000000001
+49,Utah,Family,2021,Dollars,19844,944.50439999999992
+49,Utah,Single,2020,Dollars,6593,420.94920000000002
+49,Utah,Family,2020,Dollars,19530,1199.6964
+49,Utah,Single,2022,Dollars,6746,573.39800000000002
+49,Utah,Family,2022,Dollars,19888,1462.2579999999998
+49,Utah,Single,2023,Dollars,7993,647.976
+49,Utah,Family,2023,Dollars,22499,2185.6744000000003
+49,Utah,Family,2024,Dollars,23583,1520.3916015625
+49,Utah,Single,2024,Dollars,7761,405.79840087890625
+50,Vermont,Single,2021,Dollars,8050,416.57839999999999
+50,Vermont,Family,2021,Dollars,23447,1771.8791999999999
+50,Vermont,Single,2020,Dollars,7868,308.30799999999999
+50,Vermont,Family,2020,Dollars,22288,913.02679999999998
+50,Vermont,Single,2022,Dollars,8417,374.59519999999998
+50,Vermont,Family,2022,Dollars,23881,934.4692
+50,Vermont,Single,2023,Dollars,8284,447.0172
+50,Vermont,Family,2023,Dollars,25588,1603.0644
+50,Vermont,Family,2024,Dollars,25901,1131.4295654296875
+50,Vermont,Single,2024,Dollars,8734,366.02999877929688
+51,Virginia,Single,2021,Dollars,7324,310.93439999999998
+51,Virginia,Family,2021,Dollars,21348,1031.4892
+51,Virginia,Single,2020,Dollars,6928,307.26920000000001
+51,Virginia,Family,2020,Dollars,20458,960.87040000000002
+51,Virginia,Single,2022,Dollars,7676,560.61879999999996
+51,Virginia,Family,2022,Dollars,19904,2297.12
+51,Virginia,Single,2023,Dollars,8144,394.5872
+51,Virginia,Family,2023,Dollars,24251,1449.6551999999999
+51,Virginia,Family,2024,Dollars,25523,1285.622802734375
+51,Virginia,Single,2024,Dollars,8182,621.751220703125
+53,Washington,Single,2021,Dollars,7571,430.00439999999998
+53,Washington,Family,2021,Dollars,21914,1413.2384
+53,Washington,Single,2020,Dollars,7440,512.42240000000004
+53,Washington,Family,2020,Dollars,19476,1176.2744
+53,Washington,Single,2022,Dollars,7170,383.90519999999998
+53,Washington,Family,2022,Dollars,21542,957.98919999999998
+53,Washington,Single,2023,Dollars,7895,504.17080000000004
+53,Washington,Family,2023,Dollars,24355,2104.8244
+53,Washington,Family,2024,Dollars,25355,1681.385986328125
+53,Washington,Single,2024,Dollars,8350,433.29721069335938
+54,West Virginia,Single,2021,Dollars,8046,462.52079999999995
+54,West Virginia,Family,2021,Dollars,23384,1439.5808
+54,West Virginia,Single,2020,Dollars,6993,359.18959999999998
+54,West Virginia,Family,2020,Dollars,22342,1472.6068
+54,West Virginia,Single,2022,Dollars,8065,659.54
+54,West Virginia,Family,2022,Dollars,24165,1567.2944
+54,West Virginia,Single,2023,Dollars,8669,365.18719999999996
+54,West Virginia,Family,2023,Dollars,24774,1758.12
+54,West Virginia,Family,2024,Dollars,25483,1866.508056640625
+54,West Virginia,Single,2024,Dollars,8935,560.7559814453125
+55,Wisconsin,Single,2021,Dollars,7254,335.17959999999999
+55,Wisconsin,Family,2021,Dollars,21166,816.88879999999995
+55,Wisconsin,Single,2020,Dollars,7250,368.51920000000001
+55,Wisconsin,Family,2020,Dollars,21474,899.71839999999997
+55,Wisconsin,Single,2022,Dollars,7673,341.04
+55,Wisconsin,Family,2022,Dollars,22664,1205.596
+55,Wisconsin,Single,2023,Dollars,7978,303.46680000000003
+55,Wisconsin,Family,2023,Dollars,23747,1537.0320000000002
+55,Wisconsin,Family,2024,Dollars,25781,1185.1531982421875
+55,Wisconsin,Single,2024,Dollars,8224,356.62200927734375
+56,Wyoming,Single,2021,Dollars,7920,455.15120000000002
+56,Wyoming,Family,2021,Dollars,22390,1177.8424
+56,Wyoming,Single,2020,Dollars,7743,537.17719999999997
+56,Wyoming,Family,2020,Dollars,21465,1184.2516000000001
+56,Wyoming,Single,2022,Dollars,7982,577.04360000000008
+56,Wyoming,Family,2022,Dollars,22228,1683.4048
+56,Wyoming,Single,2023,Dollars,8845,569.75239999999997
+56,Wyoming,Family,2023,Dollars,24984,2202.942
+56,Wyoming,Family,2024,Dollars,23676,2349.78515625
+56,Wyoming,Single,2024,Dollars,8963,582.68841552734375

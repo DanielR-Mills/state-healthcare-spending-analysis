@@ -1,0 +1,274 @@
+﻿Indicator,Median Medical Out-of-Pocket Spending by Total
+Source,"SHADAC analysis of the Current Population Survey's Annual Social and Economic Supplements (CPS) public use microdata files.<br />
+<br />
+Suggested Citation:<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE]."
+Notes,"Family defined as a Health Insurance Unit (HIU), based on individuals who would likely be considered a family unit in determining eligibility for either private or public coverage. The margin of error (MOE) represents the uncertainty of an estimate due to sampling variability; the calculated MOE is 95%. N/A indicates that data were not available or suppressed because the number of sample cases was too small.<br />
+<br />
+Data collection for the 2020 CPS (2019 estimates) was impacted by the COVID-19 pandemic, which likely caused measurable non-response bias. Users should treat 2019 estimates with caution. More information is available in Census Working Paper <a href="https://www.census.gov/library/working-papers/2020/demo/SEHSD-WP2020-10.html" target="_blank">SEHSD WP2020-10</a>. Data collection for the 2021 CPS (2020 estimates) was also impacted by the COVID-19 pandemic, which likely caused measurable non-response bias. More information is available in a <a href="https://www.census.gov/newsroom/blogs/research-matters/2021/09/pandemic-affect-survey-response.html" target="_blank">September 2021 Census blog post</a>. Though data collection for the 2022 CPS (2021 estimates) was not impacted by the pandemic, response rates continued to be below pre-pandemic normal, which has resulted in small, but measurable nonresponse bias. More information is available in a <a href="https://www.census.gov/newsroom/blogs/research-matters/2022/09/how-did-the-pandemic-affect-survey-response.html" target="_blank">September 2022 Census blog post</a>. Users should treat 2019&ndash;2021 estimates with caution.<br />
+<br />
+For this analysis, we estimated OOP costs for individuals using the median as the rate of measure for each state, as using the average or mean may be distorted by a few outliers representing particularly high rates of OOP spending."
+Description,"Annual median family medical out-of-pocket spending, including premiums, for individuals in the civilian non-institutionalized population. "Out-of-pocket" (OOP) is the term used to describe the costs of health care that are not covered by health insurance but paid for out of an individual&rsquo;s own resources. These costs include premiums and medical expenses not covered by their medical plan, including copays for doctor and dentist visits, diagnostic tests, prescription medicine, glasses and contacts, and medical supplies."
+
+
+Fips,Location,TimeFrame,Data Type,Data,MOE
+US,United States,2020,Dollars,1768,39.200000000000003
+US,United States,2021,Dollars,1725,49
+US,United States,2022,Dollars,1750,49
+US,United States,2023,Dollars,1900,98
+US,United States,2024,Dollars,1920,78.40000153
+01,Alabama,2020,Dollars,1400,404.25
+01,Alabama,2021,Dollars,1550,392
+01,Alabama,2022,Dollars,1300,294
+01,Alabama,2023,Dollars,1040,255.77999879999999
+01,Alabama,2024,Dollars,1450,294
+02,Alaska,2020,Dollars,940,294
+02,Alaska,2021,Dollars,1100,406.7
+02,Alaska,2022,Dollars,1450,588
+02,Alaska,2023,Dollars,2125,635.03997800000002
+02,Alaska,2024,Dollars,1920,416.5
+04,Arizona,2020,Dollars,1630,395.43
+04,Arizona,2021,Dollars,1700,309.68
+04,Arizona,2022,Dollars,1700,392
+04,Arizona,2023,Dollars,1730,245
+04,Arizona,2024,Dollars,1900,380.2399902
+05,Arkansas,2020,Dollars,1400,290.57
+05,Arkansas,2021,Dollars,1640,343
+05,Arkansas,2022,Dollars,1390,330.75
+05,Arkansas,2023,Dollars,2000,343
+05,Arkansas,2024,Dollars,1600,392
+06,California,2020,Dollars,1000,117.6
+06,California,2021,Dollars,1000,110.25
+06,California,2022,Dollars,1000,69.58000183
+06,California,2023,Dollars,900,105.3499985
+06,California,2024,Dollars,1100,98
+08,Colorado,2020,Dollars,2400,490
+08,Colorado,2021,Dollars,2200,539
+08,Colorado,2022,Dollars,2358,472.35998540000003
+08,Colorado,2023,Dollars,3000,572.32000730000004
+08,Colorado,2024,Dollars,3000,514.5
+09,Connecticut,2020,Dollars,2100,540.96
+09,Connecticut,2021,Dollars,2480,575.26
+09,Connecticut,2022,Dollars,2500,583.09997559999999
+09,Connecticut,2023,Dollars,3319,622.29998780000005
+09,Connecticut,2024,Dollars,2850,460.6000061
+10,Delaware,2020,Dollars,2000,323.39999999999998
+10,Delaware,2021,Dollars,1500,343
+10,Delaware,2022,Dollars,2120,441
+10,Delaware,2023,Dollars,2219,294
+10,Delaware,2024,Dollars,1700,392
+11,Dist. of Columbia,2020,Dollars,1400,269.5
+11,Dist. of Columbia,2021,Dollars,1500,245
+11,Dist. of Columbia,2022,Dollars,1800,245
+11,Dist. of Columbia,2023,Dollars,1950,294
+11,Dist. of Columbia,2024,Dollars,2000,318.5
+12,Florida,2020,Dollars,1020,132.30000000000001
+12,Florida,2021,Dollars,1200,193.54999999999998
+12,Florida,2022,Dollars,1320,186.1999969
+12,Florida,2023,Dollars,1520,196
+12,Florida,2024,Dollars,1350,182.2799988
+13,Georgia,2020,Dollars,1290,294
+13,Georgia,2021,Dollars,1800,441
+13,Georgia,2022,Dollars,1720,470.39999390000003
+13,Georgia,2023,Dollars,1500,490
+13,Georgia,2024,Dollars,1980,318.5
+15,Hawaii,2020,Dollars,1000,171.5
+15,Hawaii,2021,Dollars,1000,245
+15,Hawaii,2022,Dollars,1180,262.64001459999997
+15,Hawaii,2023,Dollars,800,196
+15,Hawaii,2024,Dollars,1245,156.8000031
+16,Idaho,2020,Dollars,2428,365.05
+16,Idaho,2021,Dollars,2360,480.2
+16,Idaho,2022,Dollars,2400,269.5
+16,Idaho,2023,Dollars,2625,431.2000122
+16,Idaho,2024,Dollars,3000,499.7999878
+17,Illinois,2020,Dollars,2640,379.75
+17,Illinois,2021,Dollars,2200,327.81
+17,Illinois,2022,Dollars,2160,343
+17,Illinois,2023,Dollars,2100,343
+17,Illinois,2024,Dollars,2000,311.6400146
+18,Indiana,2020,Dollars,2600,441
+18,Indiana,2021,Dollars,2400,298.89999999999998
+18,Indiana,2022,Dollars,2200,352.7999878
+18,Indiana,2023,Dollars,2560,646.79998780000005
+18,Indiana,2024,Dollars,2400,490
+19,Iowa,2020,Dollars,2520,433.65
+19,Iowa,2021,Dollars,2400,686
+19,Iowa,2022,Dollars,2400,490
+19,Iowa,2023,Dollars,2800,539
+19,Iowa,2024,Dollars,3000,416.5
+20,Kansas,2020,Dollars,2600,417.48
+20,Kansas,2021,Dollars,2900,529.20000000000005
+20,Kansas,2022,Dollars,2900,436.10000609999997
+20,Kansas,2023,Dollars,3300,599.27001949999999
+20,Kansas,2024,Dollars,2600,668.3599854
+21,Kentucky,2020,Dollars,1560,372.4
+21,Kentucky,2021,Dollars,1500,392
+21,Kentucky,2022,Dollars,1500,372.39999390000003
+21,Kentucky,2023,Dollars,1500,521.35998540000003
+21,Kentucky,2024,Dollars,1500,362.6000061
+22,Louisiana,2020,Dollars,1200,196
+22,Louisiana,2021,Dollars,1020,318.5
+22,Louisiana,2022,Dollars,1000,294
+22,Louisiana,2023,Dollars,1000,215.6000061
+22,Louisiana,2024,Dollars,1150,196
+23,Maine,2020,Dollars,2000,343
+23,Maine,2021,Dollars,2400,490
+23,Maine,2022,Dollars,2400,588
+23,Maine,2023,Dollars,2000,769.29998780000005
+23,Maine,2024,Dollars,2600,735
+24,Maryland,2020,Dollars,2400,343
+24,Maryland,2021,Dollars,2500,447.86
+24,Maryland,2022,Dollars,2384,465.5
+24,Maryland,2023,Dollars,2400,490
+24,Maryland,2024,Dollars,2424,568.4000244
+25,Massachusetts,2020,Dollars,2700,245
+25,Massachusetts,2021,Dollars,2672,387.09999999999997
+25,Massachusetts,2022,Dollars,2700,343
+25,Massachusetts,2023,Dollars,2900,294
+25,Massachusetts,2024,Dollars,3250,490
+26,Michigan,2020,Dollars,2000,252.84
+26,Michigan,2021,Dollars,1830,441
+26,Michigan,2022,Dollars,2300,436.10000609999997
+26,Michigan,2023,Dollars,2328,318.5
+26,Michigan,2024,Dollars,2000,294
+27,Minnesota,2020,Dollars,3750,421.4
+27,Minnesota,2021,Dollars,3000,568.4
+27,Minnesota,2022,Dollars,3200,553.21002199999998
+27,Minnesota,2023,Dollars,2700,449.82000729999999
+27,Minnesota,2024,Dollars,3500,693.8400269
+28,Mississippi,2020,Dollars,1100,318.5
+28,Mississippi,2021,Dollars,1200,294
+28,Mississippi,2022,Dollars,1200,220.5
+28,Mississippi,2023,Dollars,1200,254.8000031
+28,Mississippi,2024,Dollars,1000,269.5
+29,Missouri,2020,Dollars,2292,507.64
+29,Missouri,2021,Dollars,1900,490
+29,Missouri,2022,Dollars,2300,465.5
+29,Missouri,2023,Dollars,2100,753.61999509999998
+29,Missouri,2024,Dollars,2550,595.3499756
+30,Montana,2020,Dollars,2000,448.84
+30,Montana,2021,Dollars,2500,311.64
+30,Montana,2022,Dollars,2000,514.5
+30,Montana,2023,Dollars,2700,441
+30,Montana,2024,Dollars,3000,588
+31,Nebraska,2020,Dollars,3094,421.4
+31,Nebraska,2021,Dollars,3000,392
+31,Nebraska,2022,Dollars,3000,367.5
+31,Nebraska,2023,Dollars,3660,546.8400269
+31,Nebraska,2024,Dollars,3000,492.4500122
+32,Nevada,2020,Dollars,1200,245
+32,Nevada,2021,Dollars,1000,176.4
+32,Nevada,2022,Dollars,1215,362.60000609999997
+32,Nevada,2023,Dollars,1250,372.39999390000003
+32,Nevada,2024,Dollars,1100,196
+33,New Hampshire,2020,Dollars,3300,416.5
+33,New Hampshire,2021,Dollars,3200,386.12
+33,New Hampshire,2022,Dollars,3600,503.23001099999999
+33,New Hampshire,2023,Dollars,3400,578.20001219999995
+33,New Hampshire,2024,Dollars,3500,573.2999878
+34,New Jersey,2020,Dollars,2000,333.2
+34,New Jersey,2021,Dollars,2000,428.26
+34,New Jersey,2022,Dollars,2400,416.5
+34,New Jersey,2023,Dollars,2000,343
+34,New Jersey,2024,Dollars,2600,470.3999939
+35,New Mexico,2020,Dollars,704,201.88
+35,New Mexico,2021,Dollars,600,264.60000000000002
+35,New Mexico,2022,Dollars,630,245
+35,New Mexico,2023,Dollars,900,343
+35,New Mexico,2024,Dollars,1000,551.25
+36,New York,2020,Dollars,960,135.24
+36,New York,2021,Dollars,990,147
+36,New York,2022,Dollars,800,171.5
+36,New York,2023,Dollars,900,147
+36,New York,2024,Dollars,1100,147
+37,North Carolina,2020,Dollars,1800,284.2
+37,North Carolina,2021,Dollars,2120,391.51
+37,North Carolina,2022,Dollars,1780,245
+37,North Carolina,2023,Dollars,1800,274.39999390000003
+37,North Carolina,2024,Dollars,1400,343
+38,North Dakota,2020,Dollars,2400,563.5
+38,North Dakota,2021,Dollars,3350,539
+38,North Dakota,2022,Dollars,2845,335.64999390000003
+38,North Dakota,2023,Dollars,3000,539
+38,North Dakota,2024,Dollars,3620,509.6000061
+39,Ohio,2020,Dollars,2099,323.39999999999998
+39,Ohio,2021,Dollars,2350,352.8
+39,Ohio,2022,Dollars,2500,352.7999878
+39,Ohio,2023,Dollars,2680,504.7000122
+39,Ohio,2024,Dollars,2500,289.1000061
+40,Oklahoma,2020,Dollars,1200,343
+40,Oklahoma,2021,Dollars,1440,490
+40,Oklahoma,2022,Dollars,1100,254.8000031
+40,Oklahoma,2023,Dollars,1450,343
+40,Oklahoma,2024,Dollars,1750,308.7000122
+41,Oregon,2020,Dollars,2076,294
+41,Oregon,2021,Dollars,1900,343
+41,Oregon,2022,Dollars,2000,252.8399963
+41,Oregon,2023,Dollars,1800,303.7999878
+41,Oregon,2024,Dollars,1800,262.1499939
+42,Pennsylvania,2020,Dollars,2000,205.79999999999998
+42,Pennsylvania,2021,Dollars,2000,264.60000000000002
+42,Pennsylvania,2022,Dollars,1833,264.60000609999997
+42,Pennsylvania,2023,Dollars,2000,196
+42,Pennsylvania,2024,Dollars,1900,245
+44,Rhode Island,2020,Dollars,2350,402.78
+44,Rhode Island,2021,Dollars,1900,441
+44,Rhode Island,2022,Dollars,2000,617.40002440000001
+44,Rhode Island,2023,Dollars,1550,490
+44,Rhode Island,2024,Dollars,1800,435.1199951
+45,South Carolina,2020,Dollars,1700,274.39999999999998
+45,South Carolina,2021,Dollars,1950,220.5
+45,South Carolina,2022,Dollars,1600,318.5
+45,South Carolina,2023,Dollars,2100,264.60000609999997
+45,South Carolina,2024,Dollars,2760,339.5700073
+46,South Dakota,2020,Dollars,2880,982.44999999999993
+46,South Dakota,2021,Dollars,2060,490
+46,South Dakota,2022,Dollars,2450,526.75
+46,South Dakota,2023,Dollars,2585,529.20001219999995
+46,South Dakota,2024,Dollars,3000,651.7000122
+47,Tennessee,2020,Dollars,2000,303.8
+47,Tennessee,2021,Dollars,1640,171.5
+47,Tennessee,2022,Dollars,1600,343
+47,Tennessee,2023,Dollars,2225,256.26998900000001
+47,Tennessee,2024,Dollars,2000,448.8399963
+48,Texas,2020,Dollars,1687,196
+48,Texas,2021,Dollars,1640,181.29999999999998
+48,Texas,2022,Dollars,1900,181.3000031
+48,Texas,2023,Dollars,1800,215.6000061
+48,Texas,2024,Dollars,1900,205.8000031
+49,Utah,2020,Dollars,3300,504.7
+49,Utah,2021,Dollars,2600,441
+49,Utah,2022,Dollars,2910,441
+49,Utah,2023,Dollars,3900,343
+49,Utah,2024,Dollars,3500,501.7600098
+50,Vermont,2020,Dollars,2800,245
+50,Vermont,2021,Dollars,3500,523.31999999999994
+50,Vermont,2022,Dollars,2600,416.5
+50,Vermont,2023,Dollars,3749,343
+50,Vermont,2024,Dollars,3120,578.2000122
+51,Virginia,2020,Dollars,2820,343
+51,Virginia,2021,Dollars,2830,343
+51,Virginia,2022,Dollars,2500,431.2000122
+51,Virginia,2023,Dollars,3005,411.60000609999997
+51,Virginia,2024,Dollars,2500,514.5
+53,Washington,2020,Dollars,1850,308.7
+53,Washington,2021,Dollars,2000,196
+53,Washington,2022,Dollars,1800,264.60000609999997
+53,Washington,2023,Dollars,2500,416.5
+53,Washington,2024,Dollars,2160,411.6000061
+54,West Virginia,2020,Dollars,1700,437.08
+54,West Virginia,2021,Dollars,1288,490
+54,West Virginia,2022,Dollars,1500,509.60000609999997
+54,West Virginia,2023,Dollars,1350,264.60000609999997
+54,West Virginia,2024,Dollars,1700,343
+55,Wisconsin,2020,Dollars,3200,612.5
+55,Wisconsin,2021,Dollars,3150,416.5
+55,Wisconsin,2022,Dollars,2746,303.7999878
+55,Wisconsin,2023,Dollars,3700,450.7999878
+55,Wisconsin,2024,Dollars,3400,514.5
+56,Wyoming,2020,Dollars,3100,392
+56,Wyoming,2021,Dollars,3132,639.44999999999993
+56,Wyoming,2022,Dollars,3652,563.5
+56,Wyoming,2023,Dollars,3580,472.85000609999997
+56,Wyoming,2024,Dollars,3600,514.5
